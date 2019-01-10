@@ -67,7 +67,7 @@ public class SampleDTO implements Serializable {
      * @param lastNameLocal last name of the user
      */
     public final void setLastName(final String lastNameLocal) {
-        this.lastName = lastName;
+        this.lastName = lastNameLocal;
     }
 
     /**
